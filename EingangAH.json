@@ -4,12 +4,12 @@
 [
     {
         "id": "1",
-        "lat": "50.875868",
-        "lng": "8.019561",
+        "lat": "50.87573741313658",
+        "lng": "8.019556470604357",
         "title": "EingangAH",
         "has_detail_page": "1",
-        "webpage": "https://www.google.com/maps/@50.8758103,8.0197509,34m/data=!3m1!1e3",
-        "elevation": "208"
+        "webpage": "https://www.google.com/maps/@50.8753665,8.0191124,50a,35y,39.48t/data=!3m1!1e3",
+        "elevation": "238.48"
     }
 ]
 }
