@@ -1,6 +1,5 @@
 {
 "status": "OK", "num_results": 1, "results": 
-{ 
      [
      "id": "1", 
      "lat": "50.873871", 
@@ -10,5 +9,4 @@
      "has_detail_page": "1", 
       "webpage": "http://www.martini-siegen.de/" }
   ]
-}
 }
