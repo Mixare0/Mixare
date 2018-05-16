@@ -1,0 +1,16 @@
+{
+    "status": "OK",
+    "num_results": 1,
+    "geonames": [
+        {
+            "id": "Herrengarten",
+            "lat": "50.875697",
+            "lng": "8.0191012",
+            "title": "",
+            "summary": "",
+            "has_detail_page": "1",
+            "webpage": "https://www.google.de/maps/place/Herrengarten,+57072+Siegen/@50.875697,8.0191012,21z/data=!4m5!3m4!1s0x47bc1c9306a7efab:0x582d5505fb2759b6!8m2!3d50.875697!4d8.0193748!10m2!1e2!2e22",
+            "elevation": "238"
+        }
+    ]
+}
